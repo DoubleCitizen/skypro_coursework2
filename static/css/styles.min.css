@@ -413,6 +413,18 @@ textarea {
 	justify-content: space-between
 }
 
+.item__bookmark-deactivate {
+	padding: 0;
+	padding-top: 6px;
+	border: none;
+	outline: none;
+	background: none;
+	box-shadow: none;
+	opacity: 1;
+	-webkit-transition: all 0.5s linear;
+	transition: all 0.5s linear
+}
+
 .item__bookmark-btn {
 	padding: 0;
 	padding-top: 6px;
